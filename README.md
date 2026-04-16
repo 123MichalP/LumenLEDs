@@ -8,10 +8,6 @@ The primary goal of the project was to build an enjoyable, UI‑focused
 landing page featuring elements such as the aurora effect and
 an interactive LED color picker.
 
-## Screenshots
-
-![LumenLEDs landing page](img/DesignScreenshot1.png)
-
 ## Technologies
 
 This repository is built with a React/TypeScript frontend toolchain:
